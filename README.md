@@ -1,16 +1,26 @@
-## Hi there 👋
+👋 Hi, I'm Sameeksha — aka SameekshaCodes🌱
 
-<!--
-**SameekshaCodes/SameekshaCodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm an Electrical Engineering undergrad with a passion for clean code, real-world projects, and consistent self-growth.
 
-Here are some ideas to get you started:
+🚀 Currently on a 30-Day Skillme :
+ 📂 Building 30 Web Development Projects from scratch.
+ 💻 Solving 100+ Java DSA problems for placement prep.
+ 🎯 Committing every single day to GitHub to build proof, not just practice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 My Repositories:
+📁 [`WebDevJourney`](https://github.com/Sameeksha_evolving/WebDevJourney)  
+27 Days → 27 Projects + Final 3 Resume Projects 
+
+📁 [`JavaDSAJourney`](https://github.com/Sameeksha_evolving/JavaDSAJourney)  
+ Core Java + Placement-focused DSA  
+
+✨ About Me:
+🧠 Growth-minded learner & self-taught coder
+💬 Fluent in English, Hindi, and learning Spanish
+💡 Believe in building in public, not just lurking in tutorials
+
+📬 Reach Out:
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/sameeksha-sharma)
+
+⚡ “Evolving daily. Coding boldly. Learning loudly.”  
+Let's build something beautiful together 💻✨
