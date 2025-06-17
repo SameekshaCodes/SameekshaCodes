@@ -10,10 +10,10 @@
 
 🌐 My Repositories:
 
-📁 [`WebDevJourney`](https://github.com/Sameeksha_evolving/WebDevJourney)  
+📁 [`WebDevJourney`]  
 27 Days → 27 Projects + Final 3 Resume Projects 
 
-📁 [`JavaDSAJourney`](https://github.com/Sameeksha_evolving/JavaDSAJourney)  
+📁 [`JavaDSAJourney`]  
  Core Java + Placement-focused DSA  
 
 ✨ About Me:
