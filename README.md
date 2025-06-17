@@ -24,7 +24,6 @@
 
 📬 Reach Out:
 
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/sameeksha-sharma)
-
+🔗 [LinkedIn Profile](www.linkedin.com/in/sameekshasharmak25)
 ⚡ “Evolving daily. Coding boldly. Learning loudly.”  
 Let's build something beautiful together 💻✨
