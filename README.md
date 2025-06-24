@@ -1,29 +1,41 @@
-👋 Hi, I'm Sameeksha — aka SameekshaCodes🌱
+<h1 align="center">Hi, I'm Sameeksha Sharma</h1>
+<p align="center">
+  💻 Full-Stack Web Developer & Problem Solver  
+</p>
 
-🎓 I'm an Electrical Engineering undergrad with a passion for clean code, real-world projects, and consistent self-growth.
+---
 
-🚀 Currently on a 30-Day Skillme :
+### 🚀 About Me
 
- 📂 Building 30 Web Development Projects from scratch.
- 💻 Solving 100+ Java DSA problems for placement prep.
- 🎯 Committing every single day to GitHub to build proof, not just practice.
+I'm a developer passionate about clean code, intuitive UX, and building tools that make developers' lives easier. I enjoy turning ideas into full-stack applications using modern technologies.
 
-🌐 My Repositories:
+---
 
-📁 [`WebDevJourney`]  
-27 Days → 27 Projects + Final 3 Resume Projects 
+### 🛠️ Tech Stack
 
-📁 [`JavaDSAJourney`]  
- Core Java + Placement-focused DSA  
+- **Frontend:** React.js, Tailwind CSS, HTML5, CSS3, JavaScript  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **Tools:** Git, GitHub, REST APIs, VS Code
 
-✨ About Me:
+---
 
-🧠 Growth-minded learner & self-taught coder
-💬 Fluent in English, Hindi, and learning Spanish
-💡 Believe in building in public, not just lurking in tutorials
+### 🧩 Featured Projects
 
-📬 Reach Out:
+- **🧠 Code Recall** – A full-stack app to manage and revisit code snippets  
+  _React • Node.js • Express • MongoDB • JWT_
 
-🔗 [LinkedIn Profile]  (www.linkedin.com/in/sameekshasharmak25)
-⚡ “Evolving daily. Coding boldly. Learning loudly.”  
-Let's build something beautiful together 💻✨
+- **🌐 Portfolio Website** – Personal site showcasing my work (coming soon)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SameekshaCodes&show_icons=true&theme=default" />
+</p>
+
+---
+
+
+
+> *“Code. Create. Improve.”*
