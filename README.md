@@ -1,41 +1,26 @@
-<h1 align="center">Hi, I'm Sameeksha Sharma</h1>
+<h1 align="center">🌸 Hey there! I'm Sameeksha Sharma ✨</h1>
+
 <p align="center">
-  💻 Full-Stack Web Developer & Problem Solver  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFAEC9&center=true&vCenter=true&width=435&lines=Full-stack+Developer+%F0%9F%92%BB;DSA+Enthusiast+%F0%9F%92%AB;Creative+Thinker+%F0%9F%8E%A8;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🌼 About Me
 
-I'm a developer passionate about clean code, intuitive UX, and building tools that make developers' lives easier. I enjoy turning ideas into full-stack applications using modern technologies.
-
----
-
-### 🛠️ Tech Stack
-
-- **Frontend:** React.js, Tailwind CSS, HTML5, CSS3, JavaScript  
-- **Backend:** Node.js, Express.js, MongoDB  
-- **Tools:** Git, GitHub, REST APIs, VS Code
+- 🎓 Electrical Engineering undergrad (2022–2026)
+- 💻 Passionate about **web development**, **DSA**, and turning ideas into reality
+- 🎨 I love designing cute and creative interfaces — aesthetics matter!
+- 🧠 Currently learning: **Next.js**, **Framer Motion**, and **Three.js**
+- ✨ Dreaming big, building small — one commit at a time
 
 ---
 
-### 🧩 Featured Projects
+### 🛠️ Tech Toolbox
 
-- **🧠 Code Recall** – A full-stack app to manage and revisit code snippets  
-  _React • Node.js • Express • MongoDB • JWT_
-
-- **🌐 Portfolio Website** – Personal site showcasing my work (coming soon)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SameekshaCodes&show_icons=true&theme=default" />
-</p>
-
----
-
-
-
-> *“Code. Create. Improve.”*
+```bash
+Languages:   JavaScript | TypeScript | C++ | Python
+Frontend:    HTML | CSS | React | GSAP | Bootstrap
+Backend:     Node.js | Express.js | MongoDB
+Tools:       Git | GitHub | Postman | Netlify | VS Code
+Learning:    Next.js | Framer Motion | Three.js
