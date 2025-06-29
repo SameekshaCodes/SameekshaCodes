@@ -14,13 +14,3 @@
 - 🧠 Currently learning: **Next.js**, **Framer Motion**, and **Three.js**
 - ✨ Dreaming big, building small — one commit at a time
 
----
-
-### 🛠️ Tech Toolbox
-
-```bash
-Languages:   JavaScript | TypeScript | C++ | Python
-Frontend:    HTML | CSS | React | GSAP | Bootstrap
-Backend:     Node.js | Express.js | MongoDB
-Tools:       Git | GitHub | Postman | Netlify | VS Code
-Learning:    Next.js | Framer Motion | Three.js
