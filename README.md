@@ -10,7 +10,6 @@
 
 - 🎓 Electrical Engineering undergrad (2022–2026)
 - 💻 Passionate about **web development**, **DSA**, and turning ideas into reality
-- 🎨 I love designing cute and creative interfaces — aesthetics matter!
-- 🧠 Currently learning: **Next.js**, **Framer Motion**, and **Three.js**
+- 🎨 I love designing cute and creative interfaces — aesthetics matter
 - ✨ Dreaming big, building small — one commit at a time
 
